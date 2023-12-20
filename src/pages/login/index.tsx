@@ -41,7 +41,6 @@ import BlankLayout from 'src/@core/layouts/BlankLayout'
 
 // ** Demo Imports
 import FooterIllustrationsV2 from 'src/views/pages/auth/FooterIllustrationsV2'
-import { log } from 'console'
 
 // ** Styled Components
 const LoginIllustration = styled('img')(({ theme }) => ({
